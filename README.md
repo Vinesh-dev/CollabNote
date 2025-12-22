@@ -1,2 +1,2 @@
 # CollabNote
-Not you
+Not your regular NotePad
